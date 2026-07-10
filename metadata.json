@@ -1,0 +1,6 @@
+{
+  "name": "ymedia Social Media Platform",
+  "description": "A fully-featured full-stack social media application with user profiles, posts, likes, comments, dynamic home feeds, real-time-like notifications, secure JWT authentication, and direct messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
